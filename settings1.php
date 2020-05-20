@@ -38,7 +38,7 @@ $rainunit  = "in";
 $rainrate = "/h";
 $pressureunit  = "inHg";
 $livedataFormat = "cumulus";
-$livedata   = "mount/realtime.txt";
+$livedata   = "mount/cumulus/realtime.txt";
 
 $currentconditions   = "currentconditionsmetar34.php";
 $boltekfile   = "demodata/NSRealtime.txt";
